@@ -1,5 +1,5 @@
 # Ödev 5
-
+Login ekranından userdata ile giriş yaptıktan sonra tekrar login ekranına dönmek isterseniz localstorage'e clear atın.
 ## Özet Açıklama
 Derslerde yapmakta olduğumuz twitter-clone projesi için kullanıcı giriş ve tweet atma özelliklerinin implementasyonunu gerçekleştirmeniz beklenmektedir.
 ## Kurulum
