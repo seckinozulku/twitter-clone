@@ -1,7 +1,5 @@
-# Ödev 5
-Login ekranından userdata ile giriş yaptıktan sonra tekrar login ekranına dönmek isterseniz localstorage'e clear atın.
 ## Özet Açıklama
-Derslerde yapmakta olduğumuz twitter-clone projesi için kullanıcı giriş ve tweet atma özelliklerinin implementasyonunu gerçekleştirmeniz beklenmektedir.
+Yapmış olduğumuz twitter-clone projesi için kullanıcı giriş ve tweet atma özelliklerinin implementasyonunu gerçekleştirmeniz beklenmektedir.
 ## Kurulum
 Twitter-clone uygulaması içerisinde, login aksiyonu için birkaç geliştirme yaptım. Son halini push ettim. Twitter uygulamasını ödev için oluşturduğunuz repo ve klasöre dahil etmek için sadece proje dosyalarını (twitter-clone ile gelen .git klasörü olmadan) kopyalayınız.
 ## Detaylar
@@ -24,6 +22,3 @@ Bu liste tamamen isteğe bağlıdır, ödevin kabul kriterlerini etkilememektedi
 * Login form validation
 * ProfilePicture için component oluşturmak ve giriş yapan kullanıcının tweet'lerinde PP kısmını image olarak göstermek
 * Atılan yeni tweet'lere tarih bilgisini eklemek. (Derste bu konuyu yetiştiremediğim için tarih ile alakalı işlemleri opsiyonel olarak bırakıyorum. Bir sonraki derste bu konuya da değineceğiz. Tarih ile alakalı bir geliştirme yapmamanız durumunda, yeni atılan tweet'lerin tarih kısmında "invalidDate" yazacaktır. Bu normaldir ve ödevin kabul koşulu değildir.)
-
-## Proje Repo Linki
-[twitter-clone](https://github.com/94-Istanbul-Front-End-Bootcamp/twitter-clone) 
